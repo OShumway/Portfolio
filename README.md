@@ -14,9 +14,9 @@ Freshman at Loyola University Maryland
 ***
 ### Projects
 
-#### Project 1 Title
+#### Marketing Analyzer
  - This project is an Excel-based profit and pricing analysis tool that calculates profit, evaluates margins, suggests price adjustments, uses VLOOKUP for automation, and displays revenue and profit trends through dynamic graphs.
- - !images/portfolio project 1.jpg
+ - ![Project image 1](/images/portfolio project 1.jpg)
  - Initial project ideas:
 The idea for this project came from the need to analyze product performance efficiently and decide whether prices should be adjusted to increase profitability. Many businesses track revenue and profit manually, which can lead to errors and make it difficult to compare product sets or identify trends. I wanted to build a spreadsheet that automatically calculates profit, evaluates whether the profit margin meets target levels, and adjusts prices when needed
 
@@ -42,7 +42,7 @@ Link: https://www.onlinegdb.com/YetifRz3pN
 ***
 #### Excel Grade Calculator
  - This project is an Excel-based grade calculator designed to simplify tracking academic performance. It uses formulas, formatting, and automated calculations to help users understand current grades and predict future outcomes
- - images/portfolio project 2.jpg
+ - ![Project image 2](images/portfolio project 2.jpg)
  - Initial Project Idea:
 The idea for this project came from noticing how many students struggle to track their grades throughout a course, especially when assignments carry different weights. I wanted to create a tool that made it easier to calculate current grades, predict final grades, and understand how individual assignments impact overall performance. The problem needed solving because students often rely on guessing or manual calculations, which can be time-consuming and inaccurate. A simple Excel spreadsheet could automate the math and give clear, instant feedback.
 
@@ -65,7 +65,7 @@ Link: https://studentsloyola-my.sharepoint.com/:x:/g/personal/oshumway_loyola_ed
 ***
 #### Python Personality Test
  - This project is a Python-based personality test that uses user responses to generate a personality profile. It demonstrates input handling, scoring logic, and structured decision-making while providing a fun, interactive experience.
- - images/portfolio project 3.jpg
+ - ![Project image 2](/images/portfolio project 3.jpg)
  - Initial Project idea:
 I developed this project on the idea that many people enjoy quick, interactive personality tests but often rely on online versions that are not customizable or transparent about how results are generated. I wanted to create a program that lets users answer simple questions and receive an immediate personality profile based on their responses. The goal was to design a fun, user-centered tool that demonstrates how logic, scoring systems, and decision structures work in Python. This problem mattered because personality tests can be useful for self-reflection, stress awareness, and even improving communication styles—and building one from scratch allowed full control over how the assessment works.
 
