@@ -37,7 +37,7 @@ I used online tutorials to review VLOOKUP variations, chart formatting, and cond
 Results:
 I set out to build a complete profit and pricing analysis tool that could calculate revenue, determine profit margins, recommend price adjustments, and display trends visually, and I successfully achieved this goal. The spreadsheet automatically calculates profit, identifies products below the desired margin, suggests adjusted prices, and includes clear, informative graphs for both revenue and profit. If I were to expand the project, I would add forecasting tools, scenario analysis options, and more advanced functions for deeper insights.
 
-Link: https://www.onlinegdb.com/YetifRz3pN
+Link: https://studentsloyola-my.sharepoint.com/:x:/r/personal/oshumway_loyola_edu/Documents/Owen%20Shumway_Excel%20Assessment_CS106.03.xlsx?d=w7e1de0f183c24444be94e9a78e385c3a&csf=1&web=1&e=yRpOue
  
 
 ***
@@ -62,7 +62,7 @@ I used Excel’s built-in help guides to review the syntax for complex formulas 
 Results:
 I set out to create a functional, accurate, and easy-to-use grade calculator that could help students monitor their progress throughout a course, and I successfully achieved this. The spreadsheet correctly handles weighted categories, automatically updates final grades, and allows users to test “what-if” scenarios for future assignments. If I were to continue improving this project, I would add drop-down menus for customizable grading systems 
 
-Link: https://studentsloyola-my.sharepoint.com/:x:/g/personal/oshumway_loyola_edu/IQDx4B1-woNERL6U6aeOOFw6AZSs37pvDxKoqnTdacbgmZk?e=LbAQXi 
+Link: https://studentsloyola-my.sharepoint.com/:x:/r/personal/oshumway_loyola_edu/Documents/Owen%20Shumway_Excel%20Assessment_CS106.03.xlsx?d=w7e1de0f183c24444be94e9a78e385c3a&csf=1&web=1&e=Kg2H0S
 
 ***
 #### Python Personality Test
