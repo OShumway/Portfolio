@@ -16,7 +16,7 @@ Freshman at Loyola University Maryland
 
 #### Project 1 Title
  - This project is an Excel-based profit and pricing analysis tool that calculates profit, evaluates margins, suggests price adjustments, uses VLOOKUP for automation, and displays revenue and profit trends through dynamic graphs.
- - images/portfolio project 1.jpg
+ - !images/portfolio project 1.jpg
  - Initial project ideas:
 The idea for this project came from the need to analyze product performance efficiently and decide whether prices should be adjusted to increase profitability. Many businesses track revenue and profit manually, which can lead to errors and make it difficult to compare product sets or identify trends. I wanted to build a spreadsheet that automatically calculates profit, evaluates whether the profit margin meets target levels, and adjusts prices when needed
 
