@@ -36,6 +36,7 @@ I used online tutorials to review VLOOKUP variations, chart formatting, and cond
 
 Results:
 I set out to build a complete profit and pricing analysis tool that could calculate revenue, determine profit margins, recommend price adjustments, and display trends visually, and I successfully achieved this goal. The spreadsheet automatically calculates profit, identifies products below the desired margin, suggests adjusted prices, and includes clear, informative graphs for both revenue and profit. If I were to expand the project, I would add forecasting tools, scenario analysis options, and more advanced functions for deeper insights.
+
 Link: https://www.onlinegdb.com/YetifRz3pN
  
 
@@ -60,6 +61,7 @@ I used Excel’s built-in help guides to review the syntax for complex formulas 
 
 Results:
 I set out to create a functional, accurate, and easy-to-use grade calculator that could help students monitor their progress throughout a course, and I successfully achieved this. The spreadsheet correctly handles weighted categories, automatically updates final grades, and allows users to test “what-if” scenarios for future assignments. If I were to continue improving this project, I would add drop-down menus for customizable grading systems 
+
 Link: https://studentsloyola-my.sharepoint.com/:x:/g/personal/oshumway_loyola_edu/IQDx4B1-woNERL6U6aeOOFw6AZSs37pvDxKoqnTdacbgmZk?e=LbAQXi 
 
 ***
@@ -84,4 +86,5 @@ I used basic tutorials and videos to review concepts such as conditionals and lo
 
 Results:
 I set out to create an interactive personality test that assigns a personality category based on user responses, and I successfully achieved this goal. The program runs smoothly, provides immediate results, and can easily be expanded with more questions or more detailed personality descriptions. If I were to continue developing this project, I would add a graphical interface, store user results, and include more advanced logic such as weighted scoring or branching question paths
+
 Link: https://www.onlinegdb.com/YetifRz3pN
